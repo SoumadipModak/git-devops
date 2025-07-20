@@ -1,0 +1,124 @@
+  1  ls
+    2  pwd
+    3  cd/
+    4  cd /
+    5  ls
+    6  cd ..
+    7  pwd
+    8  cd ..
+    9  ls
+   10  cd..
+   11  cd ..
+   12  ls
+   13  cd ..
+   14  cd /
+   15  cd
+   16  pwd
+   17  ls
+   18  mkdir study
+   19  cd study
+   20  mkdir file
+   21  pwd
+   22  touch 1,txt
+   23  touch 2.txt
+   24  mv 1.txt file/
+   25  mv 2.txt file/
+   26  mv 1,txt file/
+   27  mk
+   28  mkdir main
+   29  cd main
+   30  mkdir dir1 dir2
+   31  cat > file3.txt
+   32  cd dir1
+   33  cat > file1.txt
+   34  cd ...
+   35  cd...
+   36  cd ....
+   37  cd ..
+   38  cd dir2
+   39  cat file.2txt
+   40  cat > file2.txt
+   41  date
+   42  cd ..
+   43  cd..
+   44  cd ..
+   45  vi filename sh
+   46  vi filename1.sh
+   47  vi soumadip.sh
+   48  vi anupam.sh
+   49  sh anupam.sh
+   50  vi shreyan.sh
+   51  sh shreyan.sh
+   52  vi shreyan.sh
+   53  power off
+   54  poweroff
+   55  ls
+   56  pwd
+   57  cd/picture
+   58  sude apt-get update
+   59  sudo apt update
+   60  pwd
+   61  cd home
+   62  cd
+   63  cd home
+   64  vi project.sh
+   65  vi new3.sh
+   66  new3.sh
+   67  vi new3.sh
+   68  vi new4.sh
+   69  vimtutor
+   70  :q!
+   71  :q
+   72  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/hello.py
+   73  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/automation.py
+   74  touch ~/devops-python/server.log
+   75  ls -l ~/devops-python/server.log
+   76  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/automation.py
+   77  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/file_analysis.py
+   78  docker --version
+   79  sudo snap install docker
+   80  sudo systemct1 start docker
+   81  sudo install podman-docker
+   82  install --help
+   83  sudo service docker start
+   84  docker --version
+   85  sudo dockerd --debug
+   86  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/file_analysis.py
+   87  sudo usermod -aG docker $USER
+   88  newgrp docker
+   89  docker run -d -p 5500:80 nginx
+   90  docker run --help
+   91  python3 disk-checker.py
+   92  python3 -m venv .venv
+   93  source .venv/bin/activate
+   94  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/helloooo.py
+   95  pip install requests
+   96  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/myapi.py
+   97  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/mypostapi.py
+   98  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/helloooo.py
+   99  /home/soumadip/devops-python/.venv/bin/python /home/soumadip/devops-python/disk_checker.py
+  100  sudo apt install git
+  101  git --version
+  102  sudo install github
+  103  git config --global user.name "soumadip" && user.gmail "kanekifiii1@gmail.com"
+  104  git config --global user.name "Soumadip"
+  105  git config --global user.email "kanekifiii1@gmail.com"
+  106  git remote -v
+  107  install mimetext
+  108  install --help
+  109  /bin/python3 /home/soumadip/.vscode/extensions/ms-python.python-2025.8.0-linux-x64/python_files/printEnvVariablesToFile.py /home/soumadip/.vscode/extensions/ms-python.python-2025.8.0-linux-x64/python_files/deactivate/bash/envVars.txt
+  110  git init
+  111  git -a
+  112  ls -a
+  113  git statuss
+  114  git status
+  115  git add testing.py
+  116  git status
+  117  git commit -m "added testing files"
+  118  git stutas
+  119  git status
+  120  rm testing.py
+  121  git status
+  122  git restore testing.py
+  123  clear
+  124  history
